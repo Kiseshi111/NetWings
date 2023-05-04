@@ -9,11 +9,14 @@
 
 ```bash
 ./build.sh
+```
 
+## 运行
+
+```bash
 cd example
 ./testserver
 ```
-
 
  最后要感谢s1mpleZzz提供思路。
 
