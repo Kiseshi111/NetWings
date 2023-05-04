@@ -4,5 +4,12 @@
  大量使用了智能指针，bind，function等技术，对socket和epoll进行了封装，使其便于使用。
  
  项目中的PDF文件是我对该项目的思路和设计的梳理。
- 
+
+## 安装
+
+```bash
+./build.sh
+```
+
  最后要感谢s1mpleZzz提供思路。
+
