@@ -9,7 +9,11 @@
 
 ```bash
 ./build.sh
+
+cd example
+./testserver
 ```
+
 
  最后要感谢s1mpleZzz提供思路。
 
